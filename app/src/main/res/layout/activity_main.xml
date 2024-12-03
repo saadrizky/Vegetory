@@ -12,7 +12,7 @@
         android:id="@+id/inventoryProgressBar"
         style="?android:attr/progressBarStyleHorizontal"
         android:layout_width="221dp"
-        android:layout_height="196dp"
+        android:layout_height="194dp"
         android:indeterminate="false"
         android:max="100"
         android:progress="100"
